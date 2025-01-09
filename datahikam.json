@@ -2,10 +2,10 @@
     "app":"Hikam 9asira",
     "BANNERAD":"ca-app-pub-3940256099942544/9214589741",
     "INTERAD":"ca-app-pub-3940256099942544/1033173712",
-    "OPENAD":"ca-app-pub-3940256099942544/2247696110",
+    "OPENAD":"ca-app-pub-3940256099942544/9257395921",
     "NATIVEAD":"ca-app-pub-3940256099942544/2247696110",
     "adapp":"on",
-    "imgad":"",
-    "urlad":"",
-    "namebtn":""
+    "imgad":"http://qodorate.com/ads/likeHikam.jpg",
+    "urlad":"https://play.google.com/store/apps/details?id=com.tooroq.hikam",
+    "namebtn":"تقييم"
 }
