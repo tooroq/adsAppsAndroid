@@ -5,8 +5,8 @@
     "INTERAD":"ca-app-pub-3940256099942544/10331737120000",
     "OPENAD":"ca-app-pub-3940256099942544/92573959210000",
     "NATIVEAD":"ca-app-pub-3940256099942544/22476961100000",
-    "adapp":"off",
-    "imgad":"http://qodorate.com/ads/likeHikam.jpg",
+    "adapp":"on",
+    "imgad":"https://tooroq.github.io/adsAppsAndroid/helpqisas.jpg",
     "urlad":"https://play.google.com/store/apps/details?id=com.tooroq.kisas_kasira_hikayat",
-    "namebtn":"تقييم"
+    "namebtn":"تقييـم الآن"
 }
