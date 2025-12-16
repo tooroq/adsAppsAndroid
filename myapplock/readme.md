@@ -1,7 +1,6 @@
 # My App Lock - NO ADS
 
-[![Download](https://www.tooroq.com/2025/12/app-lock-no-ads.html)
-[![Android Arsenal](https://www.tooroq.com/2025/12/app-lock-no-ads.html)
+[![مزيد من المعلومات](https://www.tooroq.com/2025/12/app-lock-no-ads.html)
 
 تطبيق أندرويد لقفل التطبيقات بدون إعلانات + سورس كود مجاني .
 
@@ -11,9 +10,8 @@
 
 ### MyAppLock – No Ads
 
-```html
 الفكرة من التطبيق هي تمكين المستخدم من قفل أي تطبيق في هاتفه بكلمة مرور رقمية، مع التركيز على البساطة واحترام خصوصية المستخدم، لذلك حرصت أن يكون التطبيق بدون أي إعلانات ، لان الكثير يعاني من مشكلة كثرة الاعلانات المزعجة في التطبيقات الاخرى.
-```
+
 
 ### Download
 تنزيل تطبيق MyAppLock.apk 
