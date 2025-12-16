@@ -16,15 +16,22 @@
 ```
 
 ### Download
-تنزيل تطبيق MyAppLock.apk :
+تنزيل تطبيق MyAppLock.apk 
+
 [https://github.com/tooroq/adsAppsAndroid/MyAppLockNoads.apk](https://tooroq.github.io/adsAppsAndroid/myapplock/MyAppLockNoadsApk.apk)
-السورس كود على Github:
+
+السورس كود علىGithub
+
 https://tooroq.github.io/adsAppsAndroid/myapplock
 
-### Theme
+### TODO:
+
+عليك تفعيل خدمة الوصول للتطبيق من اعدادات التطبيقات المثبتة كما سترى داخل التطبيق
+وكذلك تفعيل الظهور فوق التطبيقات بدون هذه التصريحات لا يعمل معك اي تطبيق خاص بقفل التطبيقات.
+### Theme:
 
 * MOHAMED HIRECH - TOOROQ.COM.
 
-### WHATSAPP
+### WHATSAPP:
 
 * +212658691009
