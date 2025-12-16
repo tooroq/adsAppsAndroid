@@ -1,6 +1,6 @@
 # My App Lock - NO ADS
 
-[![مزيد من المعلومات](https://www.tooroq.com/2025/12/app-lock-no-ads.html)
+[[مزيد من المعلومات](https://www.tooroq.com/2025/12/app-lock-no-ads.html)
 
 تطبيق أندرويد لقفل التطبيقات بدون إعلانات + سورس كود مجاني .
 
